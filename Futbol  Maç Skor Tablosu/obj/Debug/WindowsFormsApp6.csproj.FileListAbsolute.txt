@@ -1,0 +1,20 @@
+C:\Users\kpln2\source\repos\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\kpln2\source\repos\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\kpln2\source\repos\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\kpln2\source\repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.AssemblyReference.cache
+C:\Users\kpln2\source\repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\kpln2\source\repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\kpln2\source\repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\kpln2\source\repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\kpln2\source\repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\kpln2\source\repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\C#\Futbol  Maç Skor Tablosu\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\C#\Futbol  Maç Skor Tablosu\bin\Debug\WindowsFormsApp6.exe
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\C#\Futbol  Maç Skor Tablosu\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\C#\Futbol  Maç Skor Tablosu\obj\Debug\WindowsFormsApp6.csproj.AssemblyReference.cache
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\C#\Futbol  Maç Skor Tablosu\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\C#\Futbol  Maç Skor Tablosu\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\C#\Futbol  Maç Skor Tablosu\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\C#\Futbol  Maç Skor Tablosu\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\C#\Futbol  Maç Skor Tablosu\obj\Debug\WindowsFormsApp6.exe
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\C#\Futbol  Maç Skor Tablosu\obj\Debug\WindowsFormsApp6.pdb
